@@ -22,4 +22,4 @@ This project involves the development of a Peer-to-Peer Chat Application using J
 
 ## Developed By
 - **jafar Sweity**
-- **Besan Demaide**
+- **Beesan Demaide**
