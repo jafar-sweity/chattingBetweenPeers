@@ -11,7 +11,7 @@ public class P2PChatAppUDP {
     private JTextArea textArea_server;
     private JButton deleteAllButton;
     private JButton sendButton;
-    private JTextField textField1;
+    private JTextField index_field;
 
     public static void main(String[] args){
 
