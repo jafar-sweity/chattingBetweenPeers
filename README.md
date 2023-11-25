@@ -17,7 +17,7 @@ This project involves the development of a Peer-to-Peer Chat Application using J
 
 - **Part2:** Extends Part 1 to incorporate TCP Socket Programming and includes server-client communication for managing active clients.
   - `TCPChatApp.java`: Main class for the extended application.
-  - `TCPServer.java`: TCP server implementation for managing active clients.
+  - `tcpServer.java`: TCP server implementation for managing active clients.
   - `TCPClient.java`: TCP client implementation with registration to the TCP server.
 
 ## Developed By
